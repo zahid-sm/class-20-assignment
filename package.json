@@ -1,0 +1,16 @@
+{
+  "name": "local-storage-practice",
+  "version": "1.0.0",
+  "description": "Coding For Practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Sm Zahid",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1"
+  }
+}
